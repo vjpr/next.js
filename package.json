@@ -1,6 +1,6 @@
 {
-  "name": "next",
-  "version": "6.0.0",
+  "name": "@vjpr/next",
+  "version": "6.0.0-vjpr.1",
   "description": "Minimalistic framework for server-rendered React applications",
   "main": "./dist/server/next.js",
   "license": "MIT",
